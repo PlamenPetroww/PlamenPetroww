@@ -3,7 +3,7 @@
 
 ### Hi 👋,ich bin Plamen Petroww
 
-aus Deutschland(Bavaria) und beschäftige mich seit 2021 mit Webdesign und Webentwicklung. Das Entwickeln neuer Webseiten oder deren Entwicklung mit HTML, CSS, JavaScript sowie einer ihrer Bibliotheken macht mir extrem viel Spaß
+aus Deutschland(Bavaria) und beschäftige mich seit 2021 mit Webdesign und Webentwicklung. Das Entwickeln neuer Webseiten oder deren Entwicklung mit HTML, CSS, JavaScript sowie einer ihrer Bibliotheken macht mir extrem viel Spaß und ich bin immer bereit, mein Wissen zu erweitern.
 
 Skills:  JS / HTML / CSS 
 
