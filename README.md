@@ -11,7 +11,10 @@ Ich bin Plamen aus Deutschland(Bavaria) und beschäftige mich seit 2021 mit Webd
 
 - 📫 How to reach me: plamenpetroww@gmail.com  
 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/plamenpetroww)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/PlamenPetrov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kontakt.petroww.com/)  
+
+
 
 
 
