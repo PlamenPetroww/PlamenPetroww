@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Plamen Petroww
+#### Design und Development
+![Design und Development](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
 
-Ich bin Plamen aus Deutschland(Bavaria) und beschäftige mich seit 2021 mit Webdesign und Webentwicklung.
-Das Entwickeln neuer Webseiten oder deren Entwicklung mit HTML, CSS, JavaScript sowie einer ihrer Bibliotheken macht mir extrem viel Spaß und ich verbringe meine ganze Freizeit damit, mein Wissen zu erweitern.
-Ich habe auch ein wenig Erfahrung mit React, ab dem Monat Mai starte ich einen Intensivkurs, danach werde ich FrontEnd mit BackEnd kombinieren können, sowie das aktive Studium von Angular.
+Ich bin Plamen aus Deutschland(Bavaria) und beschäftige mich seit 2021 mit Webdesign und Webentwicklung. Das Entwickeln neuer Webseiten oder deren Entwicklung mit HTML, CSS, JavaScript sowie einer ihrer Bibliotheken macht mir extrem viel Spaß
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plamenpetroww)](https://github.com/anuraghazra/github-readme-stats)
+Skills:  JS / HTML / CSS 
+
+- 🔭 I’m currently working on Eigene Porjecte 
+- 🌱 I’m currently learning Angular 
+- 📫 How to reach me: plamenpetroww@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/plamenpetroww)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kontakt.petroww.com/)  
+
