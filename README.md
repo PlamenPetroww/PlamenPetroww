@@ -1,11 +1,11 @@
-### Hi there 👋, Plamen Petroww
-#### Design und Development
 ![Design und Development](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
+# Hi 👋,ich bin Plamen Petroww
 
 Ich bin Plamen aus Deutschland(Bavaria) und beschäftige mich seit 2021 mit Webdesign und Webentwicklung. Das Entwickeln neuer Webseiten oder deren Entwicklung mit HTML, CSS, JavaScript sowie einer ihrer Bibliotheken macht mir extrem viel Spaß
 
-Skills:  JS / HTML / CSS 
-
+##Skills:
+* 💻 JS / HTML / CSS
+ 
 - 🔭 I’m currently working on Eigene Porjecte 
 - 🌱 I’m currently learning Angular 
 - 📫 How to reach me: plamenpetroww@gmail.com 
