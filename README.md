@@ -7,7 +7,7 @@ aus Deutschland(Bavaria) und beschäftige mich seit 2021 mit Webdesign und Weben
 
 Skills:  JS / HTML / CSS 
 
-- 🔭 I’m currently working on Eigene Porjecte 
+- 🔭 I’m currently working on Eigene Projecte.
 - 🌱 I’m currently learning Angular, TypeScript wie MongoDB und Express.JS
 - 📫 How to reach me: plamenpetroww@gmail.com 
 
