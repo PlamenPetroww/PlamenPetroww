@@ -7,7 +7,7 @@ aus Deutschland(Bavaria) und beschäftige mich seit 2021 mit Webdesign und Weben
 
 Skills:  JS / HTML / CSS 
 
-- 🔭 I’m currently working on Eigene Projecte.
+- 🔭 I’m currently working on Eigene Projecte, Cubicle-SoftUni.
 - 🌱 I’m currently learning Angular, TypeScript, Datenbank mit MongoDB und Back-End mit Express.JS
 - 📫 How to reach me: plamenpetroww@gmail.com 
 
