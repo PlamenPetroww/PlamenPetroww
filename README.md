@@ -1,7 +1,7 @@
 
 ![](https://media.licdn.com/dms/image/D4E16AQHB1ty-_Aivsw/profile-displaybackgroundimage-shrink_350_1400/0/1680642064698?e=1686182400&v=beta&t=IV7QFi4MTzn0uPiHwkk4S3zoTpo9zF7vYyYn4QwhB7g)
 
-### Hi ,ich bin Plamen Petroww
+### Hi, ich bin Plamen Petroww
 
 aus Deutschland(Bavaria) und beschäftige mich seit 2021 mit Webdesign und Webentwicklung. Das Entwickeln neuer Webseiten oder deren Entwicklung mit HTML, CSS, JavaScript sowie einer ihrer Bibliotheken macht mir extrem viel Spaß und ich bin immer bereit, mein Wissen zu erweitern.
 
