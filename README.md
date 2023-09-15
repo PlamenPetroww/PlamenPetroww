@@ -8,7 +8,7 @@ aus Deutschland(Bavaria) und beschäftige mich seit 2021 mit Webdesign und Weben
 Skills:  JS Front End / Angular / React / HTML / CSS / JS Back End.
 
 - 🔭 I’m currently working on React Exam Project.
-- 🌱 I’m currently learning Angular, TypeScript.
+- 🌱 I’m currently learning React JS.
 - 📫 How to reach me: plamenpetroww@gmail.com 
 
 
