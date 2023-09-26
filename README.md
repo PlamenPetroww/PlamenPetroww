@@ -5,7 +5,7 @@
 
 aus Deutschland(Bavaria) und beschäftige mich seit 2021 mit Webdesign und Webentwicklung. Das Entwickeln neuer Webseiten oder deren Entwicklung mit HTML, CSS, JavaScript sowie  ihrer Bibliotheken (Angular, React) macht mir extrem viel Spaß und ich bin immer bereit, mein Wissen zu erweitern...
 
-Skills:  JS Front End / Angular / React / HTML / CSS / JS Back End.
+Skills:  HTML / CSS / JS Front End / JS Back End / Angular / React.
 
 - 🔭 I’m currently working on React Exam Project.
 - 🌱 I’m currently learning React JS.
