@@ -3,12 +3,10 @@
 
 ### Hi, ich bin Plamen Petroww
 
-aus Deutschland(Bavaria) und beschäftige mich seit 2021 mit Webdesign und Webentwicklung. Das Entwickeln neuer Webseiten oder deren Entwicklung mit HTML, CSS, JavaScript sowie  ihrer Bibliotheken (Angular, React) macht mir extrem viel Spaß und ich bin immer bereit, mein Wissen zu erweitern...
+Ich komme aus Deutschland (Bayern) und beschäftige mich seit 2021 intensiv mit Webdesign und Webentwicklung. Das Entwickeln neuer Webseiten sowie die Umsetzung von Projekten mit HTML, CSS, JavaScript und deren Bibliotheken (wie Angular und React) bereiten mir große Freude. Seit einem Jahr arbeite ich hauptsächlich mit Vue.js und TypeScript, wodurch ich umfangreiche Erfahrung in der Erstellung moderner und effizienter Webanwendungen gesammelt habe. Dabei bin ich stets motiviert, mein Wissen kontinuierlich zu erweitern und neue Technologien zu erlernen.
 
-Skills:  HTML / CSS / JS Front End / JS Back End / Angular / React.
+Skills:  HTML / CSS / JS Front End / JS Back End / TypeScript / Angular / React / Vue / Jira / Confluence / WorkBench / GitHub / Tortouse / TwinCAT.
 
-- 🔭 I’m currently working on React Exam Project.
-- 🌱 I’m currently learning React JS.
 - 📫 How to reach me: plamenpetroww@gmail.com 
 
 
